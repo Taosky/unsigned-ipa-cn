@@ -37,7 +37,7 @@ TrollStore / 证书签名可用，自签会改变BundleID导致无法推送
 
 ##### 砸壳、插件版本
 
-TrollStore可直接使用，证书签名 / 自签运行后登录被限制，可安装appstore版本，再使用iMazing备份应用数据，签名安装后再恢复
+TrollStore可直接使用，证书签名 / 自签运行后登录被限制<del>，可安装appstore版本，再使用iMazing备份应用数据，签名安装后再恢复</del>，时间长了会被登出
 
 （iMazing恢复需要关闭Find my phone，重启后设备会弹欢迎页，注意别导入数据，键盘、语言、Action Button等部分设置会被重置）
 
