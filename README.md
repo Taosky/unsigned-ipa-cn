@@ -55,19 +55,34 @@ TrollStore可直接使用，证书签名 / 自签运行后登录被限制<del>�
 
 TrollStore / 证书签名 / LiveContainer 可用，自签会改变BundleID导致验证失败
 
-下载地址: [releases/tag/coolapk](https://github.com/Taosky/trollstore-self-signed-ipa-cn/releases/tag/coolapk)
+下载地址: [releases/tag/coolapk](https://github.com/Taosky/unsigned-ipa-cn/releases/tag/coolapk)
 
 
 ### 豆瓣（去广告）
 
 TrollStore / 证书签名 / LiveContainer 可用，自签会改变BundleID导致验证失败
 
-下载地址: [releases/tag/douban](https://github.com/Taosky/trollstore-self-signed-ipa-cn/releases/tag/douban)
+下载地址: [releases/tag/douban](https://github.com/Taosky/unsigned-ipa-cn/releases/tag/douban)
 
 
 ### Infuse（Pro）
 
-下载地址: [releases/tag/infuse](https://github.com/Taosky/trollstore-self-signed-ipa-cn/releases/tag/infuse)
+下载地址: [releases/tag/infuse](https://github.com/Taosky/unsigned-ipa-cn/releases/tag/infuse)
+
+### SimplyPiano
+钢琴学习
+
+下载地址: [releases/tag/simplypiano](https://github.com/Taosky/unsigned-ipa-cn/releases/tag/simplypiano)
 
 
-### 待补充
+
+### Simple Live
+简简单单的看直播
+
+https://github.com/xiaoyaocz/dart_simple_live/releases/
+
+
+### PiliPala
+使用 Flutter 开发的 BiliBili 第三方客户端
+
+https://github.com/guozhigq/pilipala/releases
