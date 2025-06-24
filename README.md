@@ -55,7 +55,7 @@ TrollStore可直接使用，证书签名 / 自签运行后登录被限制<del>�
 
 ### 酷安（去广告）
 
-TrollStore / 证书签名 / LiveContainer 可用，自签会改变BundleID导致验证失败
+TrollStore / 证书签名 / LiveContainer 可用，非开发者自签会改变BundleID导致验证失败
 
 下载地址: [releases/tag/coolapk](https://github.com/Taosky/unsigned-ipa-cn/releases/tag/coolapk)
 
@@ -71,11 +71,19 @@ TrollStore / 证书签名 / LiveContainer 可用，自签会改变BundleID导致
 
 下载地址: [releases/tag/infuse](https://github.com/Taosky/unsigned-ipa-cn/releases/tag/infuse)
 
+
+
+### Spotify （EveeSpotify）
+
+如果需要灵动岛点击和Siri正常使用，要自行配置Signtools签名，参见这个[issue](https://github.com/whoeevee/EeveeSpotify/issues/32#issuecomment-2080750016)
+
+https://github.com/whoeevee/EeveeSpotify
+
+
 ### SimplyPiano
 钢琴学习
 
 下载地址: [releases/tag/simplypiano](https://github.com/Taosky/unsigned-ipa-cn/releases/tag/simplypiano)
-
 
 
 ### Simple Live
