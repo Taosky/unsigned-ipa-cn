@@ -36,21 +36,11 @@ TrollStore、证书签名可正常推送，自签无法推送
 
 下载地址: [releases/tag/fchat](https://github.com/Taosky/trollstore-ipa-cn/releases/tag/fchat)
 
-##### 无后台推送版本（8.0.58）
+##### 无后台推送版本（8.0.66）
 
 TrollStore、证书签名可用，自签会改变BundleID因此不可用
 
 下载地址：[releases/tag/wechat_qy](https://github.com/Taosky/trollstore-ipa-cn/releases/tag/wechat_qy)
-
-### 抖音
-
-##### 砸壳、插件版本（33.4.0）
-
-TrollStore可直接使用，证书签名 / 自签运行后登录被限制，可安装appstore版本，再使用iMazing备份应用数据，签名安装后再恢复
-
-（iMazing恢复需要关闭Find my phone，重启后设备会弹欢迎页，注意别导入数据，键盘、语言、Action Button等部分设置会被重置）
-
-下载地址: [releases/tag/aweme](https://github.com/Taosky/trollstore-self-signed-ipa-cn/releases/tag/aweme)
 
 
 ### 酷安（去广告）
