@@ -19,7 +19,7 @@
 2.自签（非开发者账户）：便捷方法可以看下[SideStore](https://sidestore.io/)，配置好之后，手机上（通过互联网）即可完成自签和签名刷新。配合 [LiveContainer](https://github.com/khanhduytran0/LiveContainer) 无限制“加载”使用App (可灵活注入插件)
 
 
-3.证书签名：需要花钱买证书，容易翻车，自行研究。使用feather导入使用。 **注意：同一App更新版本，可能提示失败，备份卸载后再安装即可**
+3.证书签名：需要花钱买证书，自行研究，使用feather或轻松签导入使用
 
 
 ### 微信
@@ -38,7 +38,7 @@ TrollStore、证书签名可正常推送，自签无法推送
 
 ##### 无后台推送版本（8.0.66）
 
-TrollStore、证书签名可用，自签会改变BundleID因此不可用
+TrollStore、证书签名可用，自签会改变BundleID因此不可用（不能推送）
 
 下载地址：[releases/tag/wechat_qy](https://github.com/Taosky/trollstore-ipa-cn/releases/tag/wechat_qy)
 
@@ -70,7 +70,7 @@ https://github.com/whoeevee/EeveeSpotify
 
 
 ### SimplyPiano
-钢琴学习
+钢琴学习（使用中需要注册登陆论坛的账号才能解锁）
 
 下载地址: [releases/tag/simplypiano](https://github.com/Taosky/unsigned-ipa-cn/releases/tag/simplypiano)
 
