@@ -57,6 +57,9 @@ TrollStore / 证书签名 / LiveContainer 可用，自签会改变BundleID导致
 下载地址: [releases/tag/douban](https://github.com/Taosky/unsigned-ipa-cn/releases/tag/douban)
 
 
+### 抖音（新增解除登陆限制插件）
+下载地址: [releases/tag/aweme](https://github.com/Taosky/unsigned-ipa-cn/releases/tag/aweme)
+
 ### Infuse（Pro）
 
 下载地址: [releases/tag/infuse](https://github.com/Taosky/unsigned-ipa-cn/releases/tag/infuse)
