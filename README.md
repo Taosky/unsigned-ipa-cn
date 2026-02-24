@@ -21,6 +21,11 @@
 
 3.证书签名：需要花钱买证书，自行研究，使用feather或轻松签导入使用
 
+### 轻松签
+
+feather签名微信有问题的可以试试这个
+
+下载地址: [releases/tag/esign](https://github.com/Taosky/trollstore-ipa-cn/releases/tag/esign)
 
 ### 微信
 
