@@ -29,19 +29,21 @@ feather签名微信有问题的可以试试这个
 
 ### 微信
 
-##### 砸壳、注入净化版本
+
+
+##### 砸壳、注入净化版本（官替）
 
 TrollStore、证书签名可正常推送，自签无法推送
 
 下载地址: [releases/tag/wechat](https://github.com/Taosky/trollstore-ipa-cn/releases/tag/wechat)
 
-##### 普通多开版本
+##### 普通多开版本（无法直接推送消息）
 
 免费自签多开教程: https://taosky.org/story/ios-dual-wechat/
 
 下载地址: [releases/tag/fchat](https://github.com/Taosky/trollstore-ipa-cn/releases/tag/fchat)
 
-##### 无后台推送版本（8.0.66）
+##### 无后台推送版本（特殊包名）
 
 TrollStore、证书签名可用，自签会改变BundleID因此不可用（不能推送）
 
