@@ -1,14 +1,11 @@
 # unsigned-ipa-cn
-**常用iOS应用(砸壳)收集**
-
-**Release内容不定期更新**
+**常用iOS应用(砸壳IPA)收集**
 
 *本仓库只是针对个人在用的App进行收录, 更多国际化的应用和tweaks可以看[swaggyP36000/TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs)这个仓库*
 
-
 **iOS侧载玩法：** https://taosky.org/story/ios-sideload/
 
-**微信双开教程（自签）：** https://taosky.org/story/ios-dual-wechat/
+**微信双开教程（非开发者自签）：** https://taosky.org/story/ios-dual-wechat/
 
 
 ### 安装方式
@@ -23,7 +20,7 @@
 
 ### 轻松签
 
-feather签名微信有问题的可以试试这个
+Feather签名微信有闪退问题的可以试试这个
 
 下载地址: [releases/tag/esign](https://github.com/Taosky/trollstore-ipa-cn/releases/tag/esign)
 
@@ -66,6 +63,7 @@ TrollStore / 证书签名 / LiveContainer 可用，自签会改变BundleID导致
 
 ### 抖音（新增解除登陆限制插件）
 下载地址: [releases/tag/aweme](https://github.com/Taosky/unsigned-ipa-cn/releases/tag/aweme)
+
 
 ### Infuse（Pro）
 
